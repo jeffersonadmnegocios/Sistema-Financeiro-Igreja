@@ -1,9 +1,0 @@
-{
-  "name": "Gestão Financeira da Igreja",
-  "short_name": "Financeiro Igreja",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f4f7f8",
-  "theme_color": "#1f6f78",
-  "icons": []
-}
