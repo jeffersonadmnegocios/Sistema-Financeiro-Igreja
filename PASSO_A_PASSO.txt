@@ -1,0 +1,18 @@
+PASSO A PASSO PARA PUBLICAR
+
+1. Baixe e extraia o ZIP.
+2. No GitHub, abra o repositório Sistema-Financeiro-Igreja.
+3. Envie todos os itens da pasta extraída para a raiz do repositório.
+4. O GitHub deve mostrar:
+   - public/
+   - src/
+   - supabase/
+   - index.html
+   - package.json
+   - vite.config.js
+   - wrangler.jsonc
+5. No Cloudflare, selecione o repositório.
+6. Project name: gestao-financeira-igreja
+7. Build command: npm run build
+8. Deploy command: npx wrangler deploy
+9. Clique em Deploy.
